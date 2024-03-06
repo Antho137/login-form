@@ -12,6 +12,7 @@
 
 ## Built with
 
+- HTML5 markup
 - CSS properties
 - Bootstrap
 - Reactjs (components, useState, bootstrap-icons)
